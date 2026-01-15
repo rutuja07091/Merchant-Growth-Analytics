@@ -84,6 +84,8 @@ This project includes a full Tableau workflow with portfolio views + drilldowns.
 High-level health view across revenue, growth, and reliability.
 
 📌 /screenshots/Portfolio_Performance_Snapshot.png
+<img width="2336" height="1161" alt="Portfolio Performance Snapshot"/>
+
 
 **2) Revenue vs Growth Quadrants**
 
