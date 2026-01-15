@@ -83,9 +83,7 @@ This project includes a full Tableau workflow with portfolio views + drilldowns.
 
 High-level health view across revenue, growth, and reliability.
 
-📌 /screenshots/Portfolio_Performance_Snapshot.png
 <img width="2336" height="1161" alt="Portfolio Performance Snapshot" src="https://github.com/user-attachments/assets/361dfa89-00e8-4a2d-9218-f173c3a3deb7" />
-
 
 
 **2) Revenue vs Growth Quadrants**
@@ -96,25 +94,29 @@ Merchant prioritization buckets:
 	•	High Revenue + Positive Growth → Protect
 	•	Low Revenue + Positive Growth → Monitor
 
-📌 /screenshots/Revenue_vs_Growth_Quadrants.png
+<img width="1117" height="1049" alt="Revenue vs Growth" src="https://github.com/user-attachments/assets/4f9d6a47-7563-4416-8900-28b36235bdc5" />
+
 
 **3) Revenue at Risk by Driver**
 
 Identifies the biggest contributors to decline (cancels, refunds, prep time, demand drop).
 
-📌 /screenshots/Revenue_At_Risk_By_Driver.png
+<img width="1117" height="240" alt="Revenue at Risk by Driver" src="https://github.com/user-attachments/assets/01785213-084d-494d-9764-e5c085baeab6" />
+
 
 **4) Priority Merchant Action List**
 
 Ranks merchants by Opportunity Score with recommended actions.
 
-📌 /screenshots/Priority_Merchant_Action_List.png
+<img width="1526" height="579" alt="Priority Merchant Action List" src="https://github.com/user-attachments/assets/53eef66b-bb5b-4a5f-b9aa-f7888ce09e39" />
+
 
 **5) Opportunity Heatmap (City × Category)**
 
 Shows where opportunity and risk clusters exist geographically.
 
-📌 /screenshots/Opportunity_Heatmap.png
+<img width="1117" height="640" alt="Opportunity Heatmap (City × Category)" src="https://github.com/user-attachments/assets/ac48c9d9-61fa-4802-a27a-e4ca2fd03ec6" />
+
 
 
 **Key Insights**
