@@ -122,23 +122,18 @@ Shows where opportunity and risk clusters exist geographically.
 **Key Insights**
 
 **Insight 1: Risk is concentrated in merchants with negative growth**
-
 Portfolio-level order growth trends downward, indicating broad churn risk and urgency.
 
 **Insight 2: High Revenue + Negative Growth is the highest priority zone**
-
 Most revenue is concentrated in the High Priority quadrant, meaning retention efforts should begin with top-revenue merchants losing demand.
 
 **Insight 3: Ops issues drive churn more than marketing in many cases**
-
 Merchants with high cancellations, refunds, or prep time issues decline even when demand exists. Promotions without fixing ops first can waste spend and worsen customer experience.
 
 **Insight 4: A subset of merchants have inefficient marketing spend**
-
 Low ROAS merchants require campaign resets, spend controls, and targeting cleanup before increasing budgets.
 
 **Insight 5: High-Potential merchants are the best candidates for scaling**
-
 Strong health signals + stable performance make them ideal for ads onboarding, upsell programs, and controlled growth experiments.
 
 
@@ -150,20 +145,24 @@ Strong health signals + stable performance make them ideal for ads onboarding, u
 	•	run targeted promos only after ops stabilizes
 **Track**: orders, growth, cancellations, refunds, rating
 
+
 **Ops Constrained → Operational stabilization sprint**
 	•	staffing + hours audit
 	•	menu simplification/availability improvements
 **Track**: prep time trend + cancellation drop
+
 
 **Ad Inefficient → Spend control + campaign reset**
 	•	cap spend temporarily
 	•	tighten targeting + use ROAS guardrails
 **Track**: ROAS improvement + incremental orders
 
+
 **Core → Protect + monitor**
 	•	prevent drift into churn with baseline monitoring
 	•	run small controlled experiments
 **Track**: growth stability + reliability metrics
+
 
 **High Potential → Scale intelligently**
 	•	upsell ads and promos with ROI story
