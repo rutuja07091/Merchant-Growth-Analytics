@@ -99,7 +99,7 @@ Merchant prioritization buckets:
 
 **3) Revenue at Risk by Driver**
 
-Identifies the biggest contributors to decline (cancels, refunds, prep time, demand drop).
+Identifies the biggest contributors to decline (cancellations, refunds, prep time, demand drop).
 
 <img width="1117" height="240" alt="Revenue at Risk by Driver" src="https://github.com/user-attachments/assets/01785213-084d-494d-9764-e5c085baeab6" />
 
@@ -137,7 +137,7 @@ Merchants with high cancellations, refunds, or prep time issues decline even whe
 
 Low ROAS merchants require campaign resets, spend controls, and targeting cleanup before increasing budgets.
 
-**Insight 5: High Potential merchants are the best candidates for scaling**
+**Insight 5: High-Potential merchants are the best candidates for scaling**
 
 Strong health signals + stable performance make them ideal for ads onboarding, upsell programs, and controlled growth experiments.
 
@@ -150,7 +150,7 @@ Strong health signals + stable performance make them ideal for ads onboarding, u
 	•	run targeted promos only after ops stabilizes
 **Track**: orders, growth, cancellations, refunds, rating
 
-**Ops Constrained → Operational stabilization sprin**t
+**Ops Constrained → Operational stabilization sprint**
 	•	staffing + hours audit
 	•	menu simplification/availability improvements
 **Track**: prep time trend + cancellation drop
