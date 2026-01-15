@@ -53,7 +53,7 @@ To avoid treating every merchant equally, merchants are ranked using an **Opport
 3. **Fixability of issues**  
 
 ### Formula
-**Opportunity Score = Revenue Weight × (0.6 × Headroom + 0.4 × Fixability)**
+**Opportunity Score = AVG(Revenue Weight) × (0.6 × Headroom + 0.4 × Fixability)**
 
 ### Definitions
 - **Revenue Weight:** higher-revenue merchants receive higher priority  
